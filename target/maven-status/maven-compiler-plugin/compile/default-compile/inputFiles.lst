@@ -1,0 +1,12 @@
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/queryapi/City.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/WheaterAverageApplication.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/api/APIResponse.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/api/WeatherCityNotFoundAdvice.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/queryapi/WeatherAPIResponse.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/queryapi/WeatherValues.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/api/WeatherCityNotFoundException.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/api/WeatherService.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/api/WeatherRestController.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/api/APIResponseAverage.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/queryapi/Coordinates.java
+/home/cristofer/git/cristoferz/weather-averages/src/main/java/com/weather/queryapi/WeatherData.java
